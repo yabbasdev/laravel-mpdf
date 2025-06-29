@@ -1,6 +1,6 @@
 <?php
 
-namespace Mccarlosen\LaravelMpdf;
+namespace AbdallahAlyamni\LaravelMpdfArabic;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;

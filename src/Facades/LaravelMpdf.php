@@ -1,6 +1,6 @@
 <?php
 
-namespace Mccarlosen\LaravelMpdf\Facades;
+namespace AbdallahAlyamni\LaravelMpdfArabic\Facades;
 
 use Illuminate\Support\Facades\Facade as BaseFacade;
 use Mccarlosen\LaravelMpdf\LaravelMpdf as Pdf;

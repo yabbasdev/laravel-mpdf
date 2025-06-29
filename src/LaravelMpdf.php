@@ -1,6 +1,6 @@
 <?php
 
-namespace Mccarlosen\LaravelMpdf;
+namespace AbdallahAlyamni\LaravelMpdfArabic;
 
 use Mpdf\Mpdf;
 use Mpdf\Output\Destination;
