@@ -1,11 +1,11 @@
 {
-    "name": "abdallahalyamni/laravel-mpdf",
+    "name": "abdallahalyamni/laravel-mpdf-arabic",
     "description": "Laravel Mpdf: Using Mpdf in Laravel to generate Pdfs.",
     "keywords": ["mpdf", "pdf", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^5.6|^7.0|^8.0|^8.1|^8.2|^8.3",
-        "abdallahalyamni/mpdf-arabic": "^1.0"
+        "abdallahalyamni/mpdf-arabic": ""
     },
     "autoload": {
         "psr-4": {
